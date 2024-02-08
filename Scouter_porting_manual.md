@@ -6,7 +6,7 @@
  ![image](https://github.com/leon4652/-APM-Pinpoint-Scouter-/assets/93763809/01e8d94b-8b6e-459b-9932-f10367b1b4df)
 
 
-### Pinpoint 수집 Flow
+### Scouter 수집 Flow
 ![image](https://github.com/leon4652/-APM-Pinpoint-Scouter-/assets/93763809/a8441f6d-902e-4faf-bdab-ed3576bd5486)
 
 
